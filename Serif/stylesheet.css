@@ -1,11 +1,8 @@
 @font-face {
   font-family: 'Fragment';
-  src:
-    url ('https://Rimrunner.github.io/Serif/PPFragment-SerifRegular.otf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+    font-weight: normal;
+    font-style: normal;
+    font-weight: 400;
+  font-display: swap;
+  src: url ('https://Rimrunner.github.io/Serif/PPFragment-SerifRegular.otf') format('truetype');
 }
-/*
-url('https://<yourserver>/path/to/font.woff2')format('woff2'),
-url('https://<yourserver>/path/to/font.woff')format('woff'),
-/*
